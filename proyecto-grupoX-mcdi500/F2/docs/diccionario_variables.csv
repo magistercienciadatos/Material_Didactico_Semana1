@@ -1,0 +1,13 @@
+variable,rol,descripcion,dtype,n_unicos,pct_nulos
+id,identificador,Identificador único del paciente,int64,5110,0.0
+gender,nominal,"Female, Male, Other",str,3,0.0
+age,continua,Edad en años,float64,104,0.0
+hypertension,binaria,1 si presenta hipertensión diagnosticada,int64,2,0.0
+heart_disease,binaria,1 si presenta cardiopatía,int64,2,0.0
+ever_married,nominal,Yes / No,str,2,0.0
+work_type,nominal,Tipo de ocupación,str,5,0.0
+Residence_type,nominal,Urban / Rural,str,2,0.0
+avg_glucose_level,continua,Glucosa promedio en sangre,float64,3979,0.0
+bmi,continua,Índice de masa corporal,float64,418,3.9
+smoking_status,ordinal,Unknown < never < formerly < smokes,str,4,0.0
+stroke,objetivo,1 si el paciente presentó el evento,int64,2,0.0

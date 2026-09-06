@@ -1,0 +1,11 @@
+clave,valor
+proyecto.nombre,Predicción de accidente cerebrovascular
+proyecto.fase,F2
+proyecto.semilla,42
+datos.archivo,healthcare-dataset-stroke-data.csv
+datos.fuente.plataforma,Kaggle
+datos.fuente.autor,fedesoriano
+datos.fuente.url,https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+decisiones.imputacion.bmi,mediana
+decisiones.escalador,standard
+decisiones.categoricas,"gender, ever_married, work_type, Residence_type, smoking_status"
