@@ -1,0 +1,22 @@
+{
+  "proyecto": "Predicción de accidente cerebrovascular",
+  "grupo": "Grupo X",
+  "fase": "F1",
+  "fecha_ejecucion": "2026-09-06",
+  "semilla": 42,
+  "python": "3.13.9",
+  "sistema": "Darwin 25.5.0",
+  "interprete": "/Users/omarsalinas/intake_mcdi500_2/Material_Didactico_Semana1/.venv/bin/python",
+  "entorno_virtual": true,
+  "dependencias": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.1",
+    "sklearn": "1.9.0"
+  },
+  "dataset": {
+    "titulo": "Stroke Prediction Dataset",
+    "url": "https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset",
+    "archivo_descargado": false
+  }
+}

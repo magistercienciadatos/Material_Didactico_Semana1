@@ -1,0 +1,8 @@
+nodo_mapa,donde_se_implementa,evidencia
+Entorno virtual,Sección 2 · verificar_entorno,Ruta del intérprete y versiones
+Gestión de dependencias,Sección 3.2 · requirements.txt,Archivo generado desde el entorno
+Estructura del proyecto,Sección 3 · carpetas F1–F4,Árbol impreso y validado
+Módulos reutilizables,Sección 4 · src/utilidades.py,Módulo importado y probado
+Fuente de datos,Sección 5 · FICHA y DICCIONARIO,"Ficha, cita APA 7 y roles"
+Control de versiones,Sección 6 · consultas a Git,"Rama, commits y estado"
+Documentación científica,Sección 9 · README y metadatos,Archivos en docs/

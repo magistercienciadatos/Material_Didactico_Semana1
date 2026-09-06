@@ -1,0 +1,13 @@
+variable,rol_analitico,descripcion
+id,identificador,Identificador único del paciente
+gender,nominal,"Female, Male, Other"
+age,continua,Edad en años
+hypertension,binaria,1 = diagnóstico de hipertensión
+heart_disease,binaria,1 = enfermedad cardiaca
+ever_married,binaria,No / Yes
+work_type,nominal,"Govt_job, Never_worked, Private, Self-employed, children"
+Residence_type,nominal,Rural / Urban
+avg_glucose_level,continua,Nivel medio de glucosa en sangre
+bmi,continua,Índice de masa corporal; contiene faltantes
+smoking_status,nominal,"Unknown, formerly smoked, never smoked, smokes"
+stroke,binaria,Variable objetivo: 1 = sufrió el evento
