@@ -1,0 +1,19 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# Salidas que genera la parte práctica al ejecutarse: se regeneran, no se versionan
+2_Parte_Práctica/.gitignore
+2_Parte_Práctica/requirements.txt
+2_Parte_Práctica/df_personas.*
+2_Parte_Práctica/docs/
+2_Parte_Práctica/mi_paquete/
+2_Parte_Práctica/data/raw/*.xlsx
+2_Parte_Práctica/data/raw/healthcare-dataset-stroke-data.csv
