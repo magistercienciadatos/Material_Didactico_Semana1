@@ -36,11 +36,9 @@ proyecto aunque Jupyter lo abra en su propia carpeta.
 ### Dependencias declaradas
 - ipykernel
 - jupyterlab
-- matplotlib==3.11.1
 - notebook
-- numpy==2.5.2
-- pandas==3.0.5
-- scikit-learn==1.9.0
+- numpy==2.5.4
+- pandas==3.1.0
 
 ## Convención de commits
 Prefijos usados: docs, data, feat, fix.
